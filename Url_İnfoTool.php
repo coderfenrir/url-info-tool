@@ -37,6 +37,9 @@ $url = trim(fgets(STDIN));
 // Renkli işlem başladı mesajı
 echo "\e[1;33m[+] İşlem Başladı...\e[0m\n";
 
+// Zaman ekleme
+sleep(5);
+
 // URL'den kaynak kodlarını alma
 $html = file_get_contents($url);
 
