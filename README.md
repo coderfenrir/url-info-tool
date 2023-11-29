@@ -4,7 +4,7 @@
 ## package installation
 
 # 1. clone repository:
-`https://github.com/coderfenrir/url-info-tool'
+`https://github.com/coderfenrir/url-info-tool`
 
 # 2. go to project directory:
 `cd url-info-tool/`
